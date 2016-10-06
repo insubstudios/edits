@@ -1,0 +1,37 @@
+section	sub.	title	duration
+---			
+		Responsive Design Fundamentals	02:15:01
+		---	
+i		Introduction	00:02:53
+		Welcome	00:01:08
+		Who is this title for?	00:01:45
+1		Introducing Responsive Design	00:14:16
+		What is responsive design?	00:03:06
+		Exploring the need for responsive design	00:03:24
+		What makes sites responsive?	00:02:37
+		Exploring a responsive site	00:05:09
+2		Common Concepts	01:01:05
+		Examining the mobile viewport	00:04:12
+		Controlling viewports	00:07:03
+		Understanding screen densities	00:06:21
+		Designing for multiple screen densities	00:06:01
+		Understanding media queries	00:04:37
+		Creating breakpoints with media queries	00:04:57
+		Using fluid grids	00:05:15
+		Making images responsive	00:05:57
+		Examining the future of responsive images	00:04:55
+		Building responsive forms	00:06:47
+		Improving site performance	00:05:00
+3		Responsive Design Strategies	00:44:44
+		Designing for the appropriate context	00:04:15
+		Planning a responsive design	00:07:04
+		Building responsive mockups	00:04:56
+		Developing a content strategy for responsive sites	00:05:41
+		Understanding the mobile context	00:05:26
+		Designing for mobile capabilities	00:05:29
+		Creating flexible HTML	00:06:01
+		Testing responsive designs	00:05:52
+c		Conclusion	00:12:03
+		Exploring fluid grid frameworks	00:04:46
+		Looking at responsive design tools	00:05:05
+		Additional resources	00:02:12

@@ -1,0 +1,109 @@
+section	sub.	title	duration
+---			
+		Git Essential Training	06:25:57
+		---	
+i.		Introduction	00:02:46
+	1	Introduction	00:01:07
+	2	How to use the exercise files	00:01:39
+1		What is Git?	00:19:44
+	1	Understanding version control	00:04:08
+	2	The history of Git	00:07:58
+	3	About distributed version control	00:05:04
+	4	Who should use Git?	00:02:34
+2		Installing Git	00:26:12
+	1	Installing Git on a Mac	00:03:44
+	2	Installing Git on Windows	00:05:37
+	3	Installing Git on Linux	00:01:30
+	4	Configuring Git	00:07:29
+	5	Exploring Git auto-completion	00:05:35
+	6	Using Git help	00:02:17
+3		Getting Started	00:15:49
+	1	Initializing a repository	00:01:58
+	2	Understanding where Git files are stored	00:02:34
+	3	Performing your first commit	00:02:04
+	4	Writing commit messages	00:05:22
+	5	Viewing the commit log	00:03:51
+4		Git Concepts and Architecture	00:17:44
+	1	Exploring the three-trees architecture	00:03:57
+	2	The Git workflow	00:03:15
+	3	Using hash values (SHA-1)	00:04:07
+	4	Working with the HEAD pointer	00:06:25
+5		Making Changes to Files	00:25:52
+	1	Adding files	00:05:59
+	2	Editing files	00:03:56
+	3	Viewing changes with diff	00:03:35
+	4	Viewing only staged changes	00:02:28
+	5	Deleting files	00:05:29
+	6	Moving and renaming files	00:04:25
+6		Using Git with a Real Project	00:19:18
+	1	Introducing the Explore California web site	00:02:02
+	2	Initializing Git	00:03:48
+	3	Editing the support phone number	00:06:20
+	4	Editing the backpack file name and links	00:07:08
+7		Undoing Changes	00:38:45
+	1	Undoing working directory changes	00:03:49
+	2	Unstaging files	00:02:37
+	3	Amending commits	00:04:50
+	4	Retrieving old versions	00:04:07
+	5	Reverting a commit	00:03:12
+	6	Using reset to undo commits	00:03:44
+	7	Demonstrating a soft reset	00:04:08
+	8	Demonstrating a mixed reset	00:04:07
+	9	Demonstrating a hard reset	00:05:08
+	10	Removing untracked files	00:03:03
+8		Ignoring Files	00:27:22
+	1	Using .gitignore files	00:08:23
+	2	Understanding what to ignore	00:04:47
+	3	Ignoring files globally	00:04:49
+	4	Ignoring tracked files	00:05:26
+	5	Tracking empty directories	00:03:57
+9		Navigating the Commit Tree	00:26:51
+	1	Referencing commits	00:04:52
+	2	Exploring tree listings	00:03:46
+	3	Getting more from the commit log	00:07:38
+	4	Viewing commits	00:04:04
+	5	Comparing commits	00:06:31
+10		Branching	00:39:35
+	1	Branching overview	00:04:56
+	2	Viewing and creating branches	00:02:57
+	3	Switching branches	00:02:58
+	4	Creating and switching branches	00:04:53
+	5	Switching branches with uncommitted changes	00:03:26
+	6	Comparing branches	00:04:28
+	7	Renaming branches	00:02:28
+	8	Deleting branches	00:04:18
+	9	Configuring the command prompt to show the branch	00:09:11
+11		Merging Branches	00:28:32
+	1	Merging code	00:03:11
+	2	Using fast-forward merge vs. true merge	00:06:49
+	3	Merging conflicts	00:07:26
+	4	Resolving merge conflicts	00:07:05
+	5	Exploring strategies to reduce merge conflicts	00:04:01
+12		Stashing Changes	00:14:34
+	1	Saving changes in the stash	00:04:05
+	2	Viewing stashed changes	00:02:39
+	3	Retrieving stashed changes	00:04:24
+	4	Deleting stashed changes	00:03:26
+13		Remotes	01:05:35
+	1	Using local and remote repositories	00:06:38
+	2	Setting up a GitHub account	00:05:39
+	3	Adding a remote repository	00:04:00
+	4	Creating a remote branch	00:04:03
+	5	Cloning a remote repository	00:04:26
+	6	Tracking remote branches	00:04:05
+	7	Pushing changes to a remote repository	00:05:08
+	8	Fetching changes from a remote repository	00:05:47
+	9	Merging in fetched changes	00:04:50
+	10	Checking out remote branches	00:03:22
+	11	Pushing to an updated remote branch	00:02:06
+	12	Deleting a remote branch	00:03:08
+	13	Enabling collaboration	00:03:40
+	14	A collaboration workflow	00:08:43
+14		Tools and Next Steps	00:16:23
+	1	Setting up aliases for common commands	00:05:14
+	2	Using SSH keys for remote login	00:02:56
+	3	Exploring integrated development environments	00:01:04
+	4	Exploring graphical user interfaces	00:04:32
+	5	Understanding Git hosting	00:02:37
+c.		Conclusion	00:00:55
+	1	Goodbye	00:00:55
