@@ -1,0 +1,37 @@
+section	sub.	title	duration
+---			
+		Creating a Responsive Web Design: Advanced Techniques	01:14:59
+		---	
+			
+i		Introduction	00:02:36
+	1	Introduction to this course	00:00:48
+	2	What you'll need to complete this course	00:01:08
+	3	About the exercise files	00:00:40
+1		Creating a Collapsible Mobile Menu	00:38:37
+	1	About this lesson	00:00:46
+	2	Relocating the nav element	00:04:33
+	3	Adding a mobile link button	00:04:43
+	4	Removing the header height restrictions	00:02:02
+	5	Restyling the mobile menu	00:02:22
+	6	Adjusting the logo to overlap the menu	00:03:58
+	7	Adding JavaScript and jQuery to your project	00:05:32
+	8	Attaching a click event to the mobile menu button	00:04:04
+	9	Animating the height of the navigation	00:04:51
+	10	Removing the style attribute from the nav element	00:05:21
+	11	Where to go from here	00:00:25
+2		Working in an SVG	00:16:21
+	1	About this lesson	00:00:40
+	2	Grouping artwork in an SVG	00:03:39
+	3	Adding CSS to an SVG	00:03:13
+	4	Adding media queries to an SVG	00:02:28
+	5	Changing SVG art with CSS	00:02:10
+	6	Using the same SVG file for all screen sizes	00:03:45
+	7	Where to go from here	00:00:26
+3		Supporting High-Definition Screens	00:17:25
+	1	About this lesson	00:01:46
+	2	About the exercise files	00:00:49
+	3	Adding sizes for CSS-driven images	00:03:12
+	4	Adding new graphics to the project	00:01:24
+	5	Using CSS media queries for device pixel ratio	00:05:55
+	6	Using image srcset and the pixel density descriptor	00:03:53
+	7	Where to go from here	00:00:26
