@@ -1,0 +1,33 @@
+
+body {
+	background: #f6ffe7;
+	color: #141414;
+	width: 92%;
+	max-width: 35em;
+	margin: 3em auto 9em;
+}
+
+a {
+	color: #FF1C1C;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+nav .current {
+	font-weight: bold;
+}
+
+figure {
+	margin: 1em 0 2em;
+}
+
+img {
+	max-width: 100%;
+}
+
+.date {
+	color: #444;
+	font-family: mono;
+}
